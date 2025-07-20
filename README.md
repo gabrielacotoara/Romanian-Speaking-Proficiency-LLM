@@ -1,4 +1,5 @@
 # romanian-speaking-proficiency-llm
+🧪 This project bridges language learning data and large language model training to improve Romanian language handling in AI systems.
 
 # 🧠 Predicting Romanian Speaking Proficiency for AI & LLM Optimization
 
